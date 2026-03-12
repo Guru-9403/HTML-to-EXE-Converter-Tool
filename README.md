@@ -147,8 +147,3 @@ Built with:
 
 *Developed by GURUPRASATH K — HTML TO EXE CONVERTER v1.0*
 
-
-
-### 📸 Preview
-
-![3D Model Viewer Screenshot]()
